@@ -13,9 +13,14 @@ hr{
 }
 
 h1{
-    color: #66BFBF;
+    color: #f5078a;
 }
 
 h3{
-    color: #66BFBF;
+    color: #f5078a;
+}
+
+.header{
+    background-color: aliceblue;
+    color: black;
 }
